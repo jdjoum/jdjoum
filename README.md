@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Julian 👋🏾👨🏾‍💻\
+
+An Experienced Backend Software Developer who's dedicated to building and maintaining high-quality software solutions to stimulate growth in companies. Proficient in various programming languages and frameworks, and seeking opportunities to contribute to dynamic development teams and expand my skill set.
 
 <!--
 **jdjoum/jdjoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
