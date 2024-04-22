@@ -6,6 +6,10 @@
 
 - 📫 How to reach me **jdjoum@hotmail.com**
 
+- 🌱 I’m currently learning **programming fundamentals on LeetCode and SoloLearn**
+
+- 💬 Ask me about **Golang, REST and GraphQL APIs, and Test-Driven Development**
+
 - ⚡ Fun fact **I enjoy listening to music and working out**
 
 <h3 align="left">Connect with me:</h3>
