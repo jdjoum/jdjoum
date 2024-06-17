@@ -2,7 +2,7 @@
 <h3 align="center">An experienced Software Engineer who's dedicated to building and maintaining high-quality software solutions to stimulate growth in companies. Proficient in various programming languages and frameworks, and seeking opportunities to contribute to dynamic development teams and expand my skill set.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-- 📫 How to reach me **jdjoum@hotmail.com**
+- 📫 How to reach me **jdjoum@outlook.com**
 
 - 🌱 I’m currently learning **programming fundamentals on LeetCode and SoloLearn**
 
