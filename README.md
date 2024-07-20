@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋🏾, I'm Julian 👨🏾‍💻</h1>
 <h3 align="center">An experienced Software Engineer who's dedicated to building and maintaining high-quality software solutions to stimulate growth in companies. Proficient in various programming languages and frameworks, and seeking opportunities to contribute to dynamic development teams and expand my skill set.</h3>
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 - 📫 How to reach me **jdjoum@outlook.com**
 
-- 🌱 I’m currently learning **programming fundamentals on LeetCode and SoloLearn, and am working on a [React-Weight-Tracker](https://github.com/jdjoum/React-Weight-Tracker)**
+- 🌱 I’m currently learning **ReactJS to build a [React-Weight-Tracker](https://github.com/jdjoum/React-Weight-Tracker) application**
 
 - 💬 Ask me about **Golang, REST and GraphQL APIs, and Test-Driven Development**
 
-- ⚡ Fun fact **I enjoy listening to music and working out**
+- ⚡ Fun fact **I enjoy traveling, listening to music, and working out**
+
+- 📚 Favorite quote **"Focus on what matters most"**
+
+<h3 align="left">Certifications</h3>
+<a href="https://www.credly.com/badges/00c793ca-7087-4300-ba22-45936818a48d/linked_in?t=seo2l2" target="blank"><img align="center" src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" height="100" width="100" /></a>
+<a href="https://www.udemy.com/certificate/UC-88b9f958-7d40-4f05-bf1e-254f8ebd8578/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/87866929?s=200&v=4" height="100" width="100" /></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +23,6 @@
 <a href="https://www.leetcode.com/jdjoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jdjoum" height="30" width="40" /></a>
 <a href="https://sololearn.com/profile/24199223" target="blank"><img align="center" src="https://asset.brandfetch.io/idLioNtcc7/idhanevwbO.jpeg" alt="jdjoum" height="30" width="40" /></a>
 <a href="https://www.duolingo.com/profile/-jd.?via=share_profile" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/duolingo-1.svg" alt="jdjoum" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
