@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/julian-justin-djoum-18418a1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julian-justin-djoum-18418a1aa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jdjoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jdjoum" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11643032/jdjoum" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" alt="jdjoum" height="30" width="40" /></a>
 <a href="https://sololearn.com/profile/24199223" target="blank"><img align="center" src="https://asset.brandfetch.io/idLioNtcc7/idhanevwbO.jpeg" alt="jdjoum" height="30" width="40" /></a>
 <a href="https://www.duolingo.com/profile/-jd.?via=share_profile" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/duolingo-1.svg" alt="jdjoum" height="30" width="40" /></a>
 </p>
