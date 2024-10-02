@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Julian 👨🏾‍💻</h1>
-<h3 align="center">Passionate Software Engineer who's dedicated to building and maintaining high-quality software solutions that drive business growth.</h3>
+<h3 align="center">Passionate Software Engineer dedicated to building and maintaining high-quality software solutions that drive business growth.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 - 📫 How to reach me **jdjoum@outlook.com**
