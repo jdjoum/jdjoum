@@ -10,8 +10,6 @@
 
 - ⚡ Fun fact **I enjoy traveling, listening to music, and working out**
 
-- 📚 Favorite quote **"Focus on what matters most"**
-
 <h3 align="left">Certifications</h3>
 <a href="https://www.credly.com/badges/00c793ca-7087-4300-ba22-45936818a48d/linked_in?t=seo2l2" target="blank"><img align="center" src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" height="100" width="100" /></a>
 <a href="https://www.udemy.com/certificate/UC-88b9f958-7d40-4f05-bf1e-254f8ebd8578/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/87866929?s=200&v=4" height="100" width="100" /></a>
